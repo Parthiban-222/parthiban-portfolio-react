@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../teraform_workspace"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
