@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Template:fire:
 Made by using Reactjs.
 
@@ -16,3 +17,6 @@ Made by using Reactjs.
  and deploy it on the server you wish.
 
 Wooahh!!! You have made your portfolio within minutes:smile:
+=======
+# parthiban-portfolio-react
+>>>>>>> db09ae972c32218ee486610be2c27a3c9f132388
